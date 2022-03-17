@@ -11,7 +11,7 @@
   inputs.src-taps-0_2_1.owner = "~ehmry";
   inputs.src-taps-0_2_1.ref   = "refs/tags/0.2.1";
   inputs.src-taps-0_2_1.repo  = "nim_taps";
-  inputs.src-taps-0_2_1.type  = "other";
+  inputs.src-taps-0_2_1.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 

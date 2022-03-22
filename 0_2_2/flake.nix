@@ -9,7 +9,7 @@
   
   inputs.src-taps-0_2_2.flake = false;
   inputs.src-taps-0_2_2.owner = "~ehmry";
-  inputs.src-taps-0_2_2.ref   = "0.2.2";
+  inputs.src-taps-0_2_2.ref   = "0_2_2";
   inputs.src-taps-0_2_2.repo  = "nim_taps";
   inputs.src-taps-0_2_2.type  = "sourcehut";
   

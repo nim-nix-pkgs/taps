@@ -11,6 +11,7 @@
   inputs.src-taps-0_2_2.ref   = "0.2.2";
   inputs.src-taps-0_2_2.owner = "~ehmry";
   inputs.src-taps-0_2_2.repo  = "nim_taps";
+  inputs.src-taps-0_2_2.dir   = "";
   inputs.src-taps-0_2_2.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

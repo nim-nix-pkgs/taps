@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-taps-trunk": "src-taps-trunk"
+        "src-taps-0_2_3": "src-taps-0_2_3"
       }
     },
-    "src-taps-trunk": {
+    "src-taps-0_2_3": {
       "flake": false,
       "locked": {
         "lastModified": 1652827051,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "trunk",
+        "ref": "0.2.3",
         "repo": "nim_taps",
         "type": "sourcehut"
       }

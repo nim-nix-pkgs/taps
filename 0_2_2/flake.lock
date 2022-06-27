@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-taps-trunk": "src-taps-trunk"
+        "src-taps-0_2_2": "src-taps-0_2_2"
       }
     },
-    "src-taps-trunk": {
+    "src-taps-0_2_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1652827051,
-        "narHash": "sha256-hOJ5AEofdLp/UeiU7dFl41oEmSNQAnTCUZxGVDol+6c=",
+        "lastModified": 1643454569,
+        "narHash": "sha256-7CaF9z0SM0d7dFEsT0DxXdU3ATJqmvx7TbyIKb+NhF8=",
         "owner": "~ehmry",
         "repo": "nim_taps",
-        "rev": "19e7e2bbb668d5961229b86d749c9e230c770ca2",
+        "rev": "d90aa9f17e20b112e425e093a7f527d325f0fe4d",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "trunk",
+        "ref": "0.2.2",
         "repo": "nim_taps",
         "type": "sourcehut"
       }

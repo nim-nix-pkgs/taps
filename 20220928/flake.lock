@@ -164,11 +164,11 @@
       },
       "locked": {
         "dir": "20220928",
-        "lastModified": 1668748774,
-        "narHash": "sha256-N8/wwYJklD2s4/BbmYq5i9KHJwgsZz32HY0a9tO8p8U=",
+        "lastModified": 1668754549,
+        "narHash": "sha256-IMyihFC7e02IslkQ65oNwTwzboWjQebPBQn7tiHpCOw=",
         "owner": "nim-nix-pkgs",
         "repo": "getdns",
-        "rev": "4edd6cca9bb68bf716582831ee89574f982c65f5",
+        "rev": "03e32bc78b43fa53cf654001bdfbee70a93c876d",
         "type": "github"
       },
       "original": {
